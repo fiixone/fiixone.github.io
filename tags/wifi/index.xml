@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wifi on Fiix One</title>
+    <link>https://fiix.one/tags/wifi/</link>
+    <description>Recent content in Wifi on Fiix One</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;&lt;img alt=&#34;知识共享许可协议&#34; style=&#34;border-width:0&#34; src=&#34;https://fiix.one/img/cc-by-sa-80x15.png&#34; /&gt;&lt;/a&gt; &lt;br /&gt; 本作品采用&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;知识共享署名-相同方式共享 4.0 国际许可协议&lt;/a&gt;进行许可。&lt;br /&gt;©{year} fiix.one, All Rights Reserved  </copyright>
+    <lastBuildDate>Sat, 10 Oct 2020 20:17:43 +0000</lastBuildDate>
+    
+        <atom:link href="https://fiix.one/tags/wifi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>树莓派初始配置</title>
+        <link>https://fiix.one/docs/os/raspberry/%E6%A0%91%E8%8E%93%E6%B4%BE%E5%88%9D%E5%A7%8B%E9%85%8D%E7%BD%AE/</link>
+        <pubDate>Sat, 10 Oct 2020 20:17:43 +0000</pubDate>
+        
+        <guid>https://fiix.one/docs/os/raspberry/%E6%A0%91%E8%8E%93%E6%B4%BE%E5%88%9D%E5%A7%8B%E9%85%8D%E7%BD%AE/</guid>
+        <description>配置Wifi接入 wpa_supplicant.conf是linux无线网络管理软件wpa_supplicant的配置文件，该文件记录了无线网</description>
+      </item>
+      
+      <item>
+        <title>树莓派设置AP</title>
+        <link>https://fiix.one/docs/os/raspberry/%E6%A0%91%E8%8E%93%E6%B4%BEwifi%E5%92%8Cap/</link>
+        <pubDate>Sat, 10 Oct 2020 20:17:43 +0000</pubDate>
+        
+        <guid>https://fiix.one/docs/os/raspberry/%E6%A0%91%E8%8E%93%E6%B4%BEwifi%E5%92%8Cap/</guid>
+        <description>树莓派设置AP 输入如下命令: 1 iw list 输出内容包涵AP则支持AP模式 ip neigh 查看手机热点分配IP 加入代码display_rotate=1使得屏幕竖屏</description>
+      </item>
+      
+    
+  </channel>
+</rss>

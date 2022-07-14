@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cmd on Fiix One</title>
+    <link>https://fiix.one/tags/cmd/</link>
+    <description>Recent content in Cmd on Fiix One</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;&lt;img alt=&#34;知识共享许可协议&#34; style=&#34;border-width:0&#34; src=&#34;https://fiix.one/img/cc-by-sa-80x15.png&#34; /&gt;&lt;/a&gt; &lt;br /&gt; 本作品采用&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;知识共享署名-相同方式共享 4.0 国际许可协议&lt;/a&gt;进行许可。&lt;br /&gt;©{year} fiix.one, All Rights Reserved  </copyright>
+    <lastBuildDate>Sat, 10 Oct 2020 20:17:43 +0000</lastBuildDate>
+    
+        <atom:link href="https://fiix.one/tags/cmd/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Win-CMD运行命令</title>
+        <link>https://fiix.one/docs/os/windows/win-cmd%E8%BF%90%E8%A1%8C%E5%91%BD%E4%BB%A4/</link>
+        <pubDate>Sat, 10 Oct 2020 20:17:43 +0000</pubDate>
+        
+        <guid>https://fiix.one/docs/os/windows/win-cmd%E8%BF%90%E8%A1%8C%E5%91%BD%E4%BB%A4/</guid>
+        <description>Win-CMD运行命令 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59</description>
+      </item>
+      
+    
+  </channel>
+</rss>

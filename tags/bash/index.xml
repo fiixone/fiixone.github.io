@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bash on Fiix One</title>
+    <link>https://fiix.one/tags/bash/</link>
+    <description>Recent content in Bash on Fiix One</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;&lt;img alt=&#34;知识共享许可协议&#34; style=&#34;border-width:0&#34; src=&#34;https://fiix.one/img/cc-by-sa-80x15.png&#34; /&gt;&lt;/a&gt; &lt;br /&gt; 本作品采用&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;知识共享署名-相同方式共享 4.0 国际许可协议&lt;/a&gt;进行许可。&lt;br /&gt;©{year} fiix.one, All Rights Reserved  </copyright>
+    <lastBuildDate>Thu, 05 Aug 2021 01:09:51 +0800</lastBuildDate>
+    
+        <atom:link href="https://fiix.one/tags/bash/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Tmux命令详解</title>
+        <link>https://fiix.one/docs/command/tmux%E5%91%BD%E4%BB%A4%E8%AF%A6%E8%A7%A3/</link>
+        <pubDate>Thu, 05 Aug 2021 01:09:51 +0800</pubDate>
+        
+        <guid>https://fiix.one/docs/command/tmux%E5%91%BD%E4%BB%A4%E8%AF%A6%E8%A7%A3/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>命令行note安装报错</title>
+        <link>https://fiix.one/docs/os/ubuntu/%E5%91%BD%E4%BB%A4%E8%A1%8Cnote%E5%AE%89%E8%A3%85%E6%8A%A5%E9%94%99/</link>
+        <pubDate>Thu, 05 Aug 2021 00:09:56 +0800</pubDate>
+        
+        <guid>https://fiix.one/docs/os/ubuntu/%E5%91%BD%E4%BB%A4%E8%A1%8Cnote%E5%AE%89%E8%A3%85%E6%8A%A5%E9%94%99/</guid>
+        <description>&lt;p&gt;Ubuntu命令行note工具使用起来很简洁方便,安装后启动有时会报错.&lt;/p&gt;
+&lt;p&gt;使用人少,修复简单却未能查到资料,特此记录修复方法.&lt;/p&gt;</description>
+      </item>
+      
+      <item>
+        <title>Tree命令详解</title>
+        <link>https://fiix.one/docs/command/tree%E5%91%BD%E4%BB%A4%E8%AF%A6%E8%A7%A3/</link>
+        <pubDate>Tue, 26 Jan 2021 19:19:33 +0800</pubDate>
+        
+        <guid>https://fiix.one/docs/command/tree%E5%91%BD%E4%BB%A4%E8%AF%A6%E8%A7%A3/</guid>
+        <description>&lt;h2 id=&#34;例如&#34;&gt;例如:&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;tree -C -L &lt;span class=&#34;m&#34;&gt;3&lt;/span&gt; -T &lt;span class=&#34;s2&#34;&gt;&amp;#34;文件下载列表&amp;#34;&lt;/span&gt; -H &lt;span class=&#34;s2&#34;&gt;&amp;#34;&amp;#34;&lt;/span&gt; -I &lt;span class=&#34;s2&#34;&gt;&amp;#34;*.html|img|en-US|icons&amp;#34;&lt;/span&gt; --charset&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;utf8 -o index.html
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;tree -C -L &lt;span class=&#34;m&#34;&gt;3&lt;/span&gt; -D -h --dirsfirst -F -T &lt;span class=&#34;s2&#34;&gt;&amp;#34;文件下载列表&amp;#34;&lt;/span&gt; -H &lt;span class=&#34;s2&#34;&gt;&amp;#34;&amp;#34;&lt;/span&gt; -I &lt;span class=&#34;s2&#34;&gt;&amp;#34;*.html|*.sh&amp;#34;&lt;/span&gt; --charset&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;utf8 -o index.html
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id=&#34;详解&#34;&gt;详解:&lt;/h2&gt;</description>
+      </item>
+      
+      <item>
+        <title>命令行使用代理</title>
+        <link>https://fiix.one/docs/os/%E5%91%BD%E4%BB%A4%E8%A1%8C%E4%BD%BF%E7%94%A8%E4%BB%A3%E7%90%86/</link>
+        <pubDate>Fri, 23 Oct 2020 08:29:17 +0800</pubDate>
+        
+        <guid>https://fiix.one/docs/os/%E5%91%BD%E4%BB%A4%E8%A1%8C%E4%BD%BF%E7%94%A8%E4%BB%A3%E7%90%86/</guid>
+        <description>&lt;h2 id=&#34;命令行使用代理&#34;&gt;命令行使用代理&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;基本原理一样，触类旁通&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;设置环境变量临时生效&#34;&gt;设置环境变量,临时生效&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;export&lt;/span&gt; &lt;span class=&#34;nv&#34;&gt;http_proxy&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;http://127.0.0.1:1080
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;export&lt;/span&gt; &lt;span class=&#34;nv&#34;&gt;https_proxy&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;https://127.0.0.1:1080
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;export&lt;/span&gt; &lt;span class=&#34;nv&#34;&gt;ftp_proxy&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;http://127.0.0.1:1080&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;export&lt;/span&gt; &lt;span class=&#34;nv&#34;&gt;all_proxy&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;socks5://127.0.0.1:1080&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id=&#34;设置环境变量永久生效&#34;&gt;设置环境变量,永久生效&lt;/h3&gt;
+&lt;p&gt;修改 &lt;code&gt;~/.bash.rc&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;export&lt;/span&gt; &lt;span class=&#34;nv&#34;&gt;http_proxy&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;http://127.0.0.1:1080&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;export&lt;/span&gt; &lt;span class=&#34;nv&#34;&gt;https_proxy&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;http://127.0.0.1:1080&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;export&lt;/span&gt; &lt;span class=&#34;nv&#34;&gt;ftp_proxy&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;http://127.0.0.1:1080&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;export&lt;/span&gt; &lt;span class=&#34;nv&#34;&gt;all_proxy&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;socks5://127.0.0.1:1080&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# 无需代理的主机或域名，可使用通配符&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;export&lt;/span&gt; &lt;span class=&#34;nv&#34;&gt;no_proxy&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;localhost, 127.0.0.1, ::1, 10.*.*.*,&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id=&#34;取消设置环境变量&#34;&gt;取消设置环境变量&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;unset&lt;/span&gt; http_proxy
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;unset&lt;/span&gt; https_proxy
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;unset&lt;/span&gt; ftp_proxy
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;unset&lt;/span&gt; all_proxy
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;unset&lt;/span&gt; no_proxy
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id=&#34;apt-get代理临时生效&#34;&gt;apt-get代理,临时生效&lt;/h3&gt;
+&lt;p&gt;在命令行临时带入&lt;br /&gt;
+在&lt;code&gt;apt&lt;/code&gt;命令后面增加&lt;code&gt;-o&lt;/code&gt;选项&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo apt-get -o Acquire::http::proxy&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;http://127.0.0.1:1080/&amp;#34;&lt;/span&gt;  update
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo apt-get -o Acquire::https::proxy&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;https://127.0.0.1:1080/&amp;#34;&lt;/span&gt;  update
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo apt-get -o Acquire::socks::proxy&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;socks5://127.0.0.1:1080/&amp;#34;&lt;/span&gt;  update
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# 注意上面的使用&amp;#39;socks&amp;#39;是正确的，链接才是&amp;#39;socks5&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id=&#34;apt-get代理永久生效&#34;&gt;apt-get代理,永久生效&lt;/h3&gt;
+&lt;p&gt;修改 &lt;code&gt;/etc/apt/apt.conf&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Acquire::socks::proxy &lt;span class=&#34;s2&#34;&gt;&amp;#34;socks5://127.0.0.1:1080/&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Acquire::http::proxy &lt;span class=&#34;s2&#34;&gt;&amp;#34;http://127.0.0.1:1080/&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Acquire::https::proxy &lt;span class=&#34;s2&#34;&gt;&amp;#34;https://127.0.0.1:1080/&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Acquire::ftp::proxy &lt;span class=&#34;s2&#34;&gt;&amp;#34;ftp://127.0.0.1:1080/&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      </item>
+      
+      <item>
+        <title>Bash命令行的艺术</title>
+        <link>https://fiix.one/docs/command/bash%E5%91%BD%E4%BB%A4%E8%A1%8C%E7%9A%84%E8%89%BA%E6%9C%AF/</link>
+        <pubDate>Sat, 10 Oct 2020 20:17:43 +0000</pubDate>
+        
+        <guid>https://fiix.one/docs/command/bash%E5%91%BD%E4%BB%A4%E8%A1%8C%E7%9A%84%E8%89%BA%E6%9C%AF/</guid>
+        <description>🌍 Čeština ∙ Deutsch ∙ Ελληνικά ∙ English ∙ Español ∙ Français ∙ Indonesia ∙ Italiano ∙ 日本語 ∙ 한국어 ∙ Português ∙ Română ∙ Ру</description>
+      </item>
+      
+      <item>
+        <title>Linux启用SSH密钥登录</title>
+        <link>https://fiix.one/docs/os/linux%E5%90%AF%E7%94%A8ssh%E5%AF%86%E9%92%A5%E7%99%BB%E5%BD%95/</link>
+        <pubDate>Sat, 10 Oct 2020 20:17:43 +0000</pubDate>
+        
+        <guid>https://fiix.one/docs/os/linux%E5%90%AF%E7%94%A8ssh%E5%AF%86%E9%92%A5%E7%99%BB%E5%BD%95/</guid>
+        <description>Linux启用SSH密钥登录 在某些时候，使用密码作为登录服务器的认证方式是不太安全的，为避免密码被暴力破解，许多时候可以采用ssh密钥登录服</description>
+      </item>
+      
+      <item>
+        <title>Ubuntu清除卸载后的软件包数据</title>
+        <link>https://fiix.one/docs/os/ubuntu/ubuntu%E6%B8%85%E9%99%A4%E5%8D%B8%E8%BD%BD%E5%90%8E%E7%9A%84%E5%8C%85%E6%95%B0%E6%8D%AE/</link>
+        <pubDate>Sat, 10 Oct 2020 20:17:43 +0000</pubDate>
+        
+        <guid>https://fiix.one/docs/os/ubuntu/ubuntu%E6%B8%85%E9%99%A4%E5%8D%B8%E8%BD%BD%E5%90%8E%E7%9A%84%E5%8C%85%E6%95%B0%E6%8D%AE/</guid>
+        <description>Ubuntu清除卸载后的包数据 单独卸载包时清除配置 1 2 sudo apt-get 包名 --purge sudo apt-get purge 包名 卸载系统全部不用的包 1 sudo apt-get autoremove --purge 清除全部已卸载的包配置文件 1 sudo dpkg -l |grep</description>
+      </item>
+      
+      <item>
+        <title>查看DNS</title>
+        <link>https://fiix.one/docs/android/%E6%9F%A5%E7%9C%8Bdns/</link>
+        <pubDate>Sat, 10 Oct 2020 20:17:43 +0000</pubDate>
+        
+        <guid>https://fiix.one/docs/android/%E6%9F%A5%E7%9C%8Bdns/</guid>
+        <description>1 getprop |grep dns</description>
+      </item>
+      
+    
+  </channel>
+</rss>

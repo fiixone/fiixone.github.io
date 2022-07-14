@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://fiix.one/zh-cn/sitemap.xml</loc>
+    
+      <lastmod>2022-07-13T20:07:49+08:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://fiix.one/en/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://fiix.one/ko/sitemap.xml</loc>
+    
+  </sitemap>
+  
+</sitemapindex>

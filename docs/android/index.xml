@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Android on Fiix One</title>
+    <link>https://fiix.one/docs/android/</link>
+    <description>Recent content in Android on Fiix One</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;&lt;img alt=&#34;知识共享许可协议&#34; style=&#34;border-width:0&#34; src=&#34;https://fiix.one/img/cc-by-sa-80x15.png&#34; /&gt;&lt;/a&gt; &lt;br /&gt; 本作品采用&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;知识共享署名-相同方式共享 4.0 国际许可协议&lt;/a&gt;进行许可。&lt;br /&gt;©{year} fiix.one, All Rights Reserved  </copyright>
+    <lastBuildDate>Tue, 28 Jan 2020 00:34:39 +0900</lastBuildDate>
+    
+        <atom:link href="https://fiix.one/docs/android/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Mitools准备和安装</title>
+        <link>https://fiix.one/docs/android/mitools%E5%87%86%E5%A4%87%E5%92%8C%E5%AE%89%E8%A3%85/</link>
+        <pubDate>Sat, 10 Oct 2020 20:17:43 +0000</pubDate>
+        
+        <guid>https://fiix.one/docs/android/mitools%E5%87%86%E5%A4%87%E5%92%8C%E5%AE%89%E8%A3%85/</guid>
+        <description>前言 本人严重讨厌通知栏广告，权限滥用。 每次系统更新看见有想用的功能了很是头疼，更新后部分软件重新预装。单个卸载删除太麻烦。 部分应用临时用不上</description>
+      </item>
+      
+      <item>
+        <title>查看DNS</title>
+        <link>https://fiix.one/docs/android/%E6%9F%A5%E7%9C%8Bdns/</link>
+        <pubDate>Sat, 10 Oct 2020 20:17:43 +0000</pubDate>
+        
+        <guid>https://fiix.one/docs/android/%E6%9F%A5%E7%9C%8Bdns/</guid>
+        <description>1 getprop |grep dns</description>
+      </item>
+      
+    
+  </channel>
+</rss>

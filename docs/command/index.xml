@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Command on Fiix One</title>
+    <link>https://fiix.one/docs/command/</link>
+    <description>Recent content in Command on Fiix One</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;&lt;img alt=&#34;知识共享许可协议&#34; style=&#34;border-width:0&#34; src=&#34;https://fiix.one/img/cc-by-sa-80x15.png&#34; /&gt;&lt;/a&gt; &lt;br /&gt; 本作品采用&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;知识共享署名-相同方式共享 4.0 国际许可协议&lt;/a&gt;进行许可。&lt;br /&gt;©{year} fiix.one, All Rights Reserved  </copyright>
+    <lastBuildDate>Tue, 28 Jan 2020 00:34:39 +0900</lastBuildDate>
+    
+        <atom:link href="https://fiix.one/docs/command/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Tmux命令详解</title>
+        <link>https://fiix.one/docs/command/tmux%E5%91%BD%E4%BB%A4%E8%AF%A6%E8%A7%A3/</link>
+        <pubDate>Thu, 05 Aug 2021 01:09:51 +0800</pubDate>
+        
+        <guid>https://fiix.one/docs/command/tmux%E5%91%BD%E4%BB%A4%E8%AF%A6%E8%A7%A3/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Tree命令详解</title>
+        <link>https://fiix.one/docs/command/tree%E5%91%BD%E4%BB%A4%E8%AF%A6%E8%A7%A3/</link>
+        <pubDate>Tue, 26 Jan 2021 19:19:33 +0800</pubDate>
+        
+        <guid>https://fiix.one/docs/command/tree%E5%91%BD%E4%BB%A4%E8%AF%A6%E8%A7%A3/</guid>
+        <description>&lt;h2 id=&#34;例如&#34;&gt;例如:&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;tree -C -L &lt;span class=&#34;m&#34;&gt;3&lt;/span&gt; -T &lt;span class=&#34;s2&#34;&gt;&amp;#34;文件下载列表&amp;#34;&lt;/span&gt; -H &lt;span class=&#34;s2&#34;&gt;&amp;#34;&amp;#34;&lt;/span&gt; -I &lt;span class=&#34;s2&#34;&gt;&amp;#34;*.html|img|en-US|icons&amp;#34;&lt;/span&gt; --charset&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;utf8 -o index.html
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;tree -C -L &lt;span class=&#34;m&#34;&gt;3&lt;/span&gt; -D -h --dirsfirst -F -T &lt;span class=&#34;s2&#34;&gt;&amp;#34;文件下载列表&amp;#34;&lt;/span&gt; -H &lt;span class=&#34;s2&#34;&gt;&amp;#34;&amp;#34;&lt;/span&gt; -I &lt;span class=&#34;s2&#34;&gt;&amp;#34;*.html|*.sh&amp;#34;&lt;/span&gt; --charset&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;utf8 -o index.html
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id=&#34;详解&#34;&gt;详解:&lt;/h2&gt;</description>
+      </item>
+      
+      <item>
+        <title>Git简单用法</title>
+        <link>https://fiix.one/docs/command/git%E7%AE%80%E5%8D%95%E7%94%A8%E6%B3%95/</link>
+        <pubDate>Thu, 15 Oct 2020 20:17:43 +0000</pubDate>
+        
+        <guid>https://fiix.one/docs/command/git%E7%AE%80%E5%8D%95%E7%94%A8%E6%B3%95/</guid>
+        <description>文献地址 部分文献摘录于：git-scm.com Git 恢复到上次提交 1 2 3 4 5 6 git log #查询到需要恢复的版本 git reset --soft hash1 #--soft 保存本地文件 git reset --hard hash2 #--hard 本地文件</description>
+      </item>
+      
+      <item>
+        <title>Bash命令行的艺术</title>
+        <link>https://fiix.one/docs/command/bash%E5%91%BD%E4%BB%A4%E8%A1%8C%E7%9A%84%E8%89%BA%E6%9C%AF/</link>
+        <pubDate>Sat, 10 Oct 2020 20:17:43 +0000</pubDate>
+        
+        <guid>https://fiix.one/docs/command/bash%E5%91%BD%E4%BB%A4%E8%A1%8C%E7%9A%84%E8%89%BA%E6%9C%AF/</guid>
+        <description>🌍 Čeština ∙ Deutsch ∙ Ελληνικά ∙ English ∙ Español ∙ Français ∙ Indonesia ∙ Italiano ∙ 日本語 ∙ 한국어 ∙ Português ∙ Română ∙ Ру</description>
+      </item>
+      
+    
+  </channel>
+</rss>

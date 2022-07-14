@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>正则匹配 on Fiix One</title>
+    <link>https://fiix.one/tags/%E6%AD%A3%E5%88%99%E5%8C%B9%E9%85%8D/</link>
+    <description>Recent content in 正则匹配 on Fiix One</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;&lt;img alt=&#34;知识共享许可协议&#34; style=&#34;border-width:0&#34; src=&#34;https://fiix.one/img/cc-by-sa-80x15.png&#34; /&gt;&lt;/a&gt; &lt;br /&gt; 本作品采用&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;知识共享署名-相同方式共享 4.0 国际许可协议&lt;/a&gt;进行许可。&lt;br /&gt;©{year} fiix.one, All Rights Reserved  </copyright>
+    <lastBuildDate>Sat, 10 Oct 2020 20:17:43 +0000</lastBuildDate>
+    
+        <atom:link href="https://fiix.one/tags/%E6%AD%A3%E5%88%99%E5%8C%B9%E9%85%8D/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>正则匹配中需要转义的字符</title>
+        <link>https://fiix.one/docs/os/%E6%AD%A3%E5%88%99%E5%8C%B9%E9%85%8D%E4%B8%AD%E9%9C%80%E8%A6%81%E8%BD%AC%E4%B9%89%E7%9A%84%E5%AD%97%E7%AC%A6/</link>
+        <pubDate>Sat, 10 Oct 2020 20:17:43 +0000</pubDate>
+        
+        <guid>https://fiix.one/docs/os/%E6%AD%A3%E5%88%99%E5%8C%B9%E9%85%8D%E4%B8%AD%E9%9C%80%E8%A6%81%E8%BD%AC%E4%B9%89%E7%9A%84%E5%AD%97%E7%AC%A6/</guid>
+        <description>$ 匹配输入字符串的结尾位置。如果设置了 RegExp 对象的 Multiline 属性，则 $ 也匹配 ‘\n&amp;rsquo; 或 ‘\r&amp;rsquo;。要匹配 $ 字符本身，请使用 $。 ( )</description>
+      </item>
+      
+    
+  </channel>
+</rss>
