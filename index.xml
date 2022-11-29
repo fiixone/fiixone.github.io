@@ -15,6 +15,24 @@
     
       
       <item>
+        <title>Windows 下编译 Nginx支持ngx_cache_purge</title>
+        <link>https://fiix.one/docs/web/windows%E4%B8%8B%E7%BC%96%E8%AF%91nginx%E6%94%AF%E6%8C%81ngx_cache_purge/</link>
+        <pubDate>Sun, 20 Nov 2022 10:36:36 +0800</pubDate>
+        
+        <guid>https://fiix.one/docs/web/windows%E4%B8%8B%E7%BC%96%E8%AF%91nginx%E6%94%AF%E6%8C%81ngx_cache_purge/</guid>
+        <description>Windows 下编译 Nginx支持ngx_cache_purge 官方文档地址: https://nginx.org/en/docs/howto_build_on_win32.html ngx_cache_purge源码: https://github.com/FRiCKLE/ngx_cache_purge 一. 安装环境支持 Microsoft Visual C compiler. Microsoft Visual Stu</description>
+      </item>
+      
+      <item>
+        <title>Nginx 配置 CGI 调用 shell</title>
+        <link>https://fiix.one/docs/web/nginx%E9%85%8D%E7%BD%AEcgi_%E8%B0%83%E7%94%A8shell/</link>
+        <pubDate>Sat, 12 Nov 2022 09:36:36 +0800</pubDate>
+        
+        <guid>https://fiix.one/docs/web/nginx%E9%85%8D%E7%BD%AEcgi_%E8%B0%83%E7%94%A8shell/</guid>
+        <description>Nginx 配置 CGI 调用 shell 一. 系统环境 Distro: CentOS Linux release 7.9.2009 (Core) Kernel: 3.10.0-1160.76.1.el7.x86_64 arch: x86_64 bits: 64 二.安装配置 1. 安装 1 2 3 yum update yum install nginx fcgi fcgiwrap 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 [localhost]#fcgiwrap -h</description>
+      </item>
+      
+      <item>
         <title>Nssm-创建Win服务</title>
         <link>https://fiix.one/docs/os/windows/nssm%E4%B8%8B%E8%BD%BD%E9%85%8D%E7%BD%AE/</link>
         <pubDate>Wed, 13 Jul 2022 20:07:49 +0800</pubDate>

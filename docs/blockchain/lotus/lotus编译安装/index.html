@@ -1083,7 +1083,7 @@
 <meta property="og:url" content="https://fiix.one/docs/blockchain/lotus/lotus%E7%BC%96%E8%AF%91%E5%AE%89%E8%A3%85/">
 <meta property="og:type" content="article">
 
-<meta name="generator" content="Hugo 0.101.0" />
+<meta name="generator" content="Hugo 0.107.0">
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="theme-color" content="#ffffff">
 <link rel="canonical" href="https://fiix.one/docs/blockchain/lotus/lotus%E7%BC%96%E8%AF%91%E5%AE%89%E8%A3%85/">
@@ -1926,6 +1926,22 @@ if (!doNotTrack) {
     </span>
   </li>
   <ul class="menu__list " data-data=/web/ data-link=https://fiix.one/docs/blockchain/lotus/lotus%E7%BC%96%E8%AF%91%E5%AE%89%E8%A3%85/>
+    
+      
+        
+        
+        <li>
+          <a href="https://fiix.one/docs/web/windows%E4%B8%8B%E7%BC%96%E8%AF%91nginx%E6%94%AF%E6%8C%81ngx_cache_purge/" class="menu__title " data-depth="0">Windows 下编译 Nginx支持ngx_cache_purge</a>
+        </li>
+      
+    
+      
+        
+        
+        <li>
+          <a href="https://fiix.one/docs/web/nginx%E9%85%8D%E7%BD%AEcgi_%E8%B0%83%E7%94%A8shell/" class="menu__title " data-depth="0">Nginx 配置 CGI 调用 shell</a>
+        </li>
+      
     
       
         
@@ -3125,6 +3141,22 @@ if (!doNotTrack) {
         
         
         <li>
+          <a href="https://fiix.one/docs/web/windows%E4%B8%8B%E7%BC%96%E8%AF%91nginx%E6%94%AF%E6%8C%81ngx_cache_purge/" class="menu__title " data-depth="0">Windows 下编译 Nginx支持ngx_cache_purge</a>
+        </li>
+      
+    
+      
+        
+        
+        <li>
+          <a href="https://fiix.one/docs/web/nginx%E9%85%8D%E7%BD%AEcgi_%E8%B0%83%E7%94%A8shell/" class="menu__title " data-depth="0">Nginx 配置 CGI 调用 shell</a>
+        </li>
+      
+    
+      
+        
+        
+        <li>
           <a href="https://fiix.one/docs/web/html5%E7%A6%81%E6%AD%A2%E7%94%A8%E6%88%B7%E7%BC%A9%E6%94%BE/" class="menu__title " data-depth="0">HTML5禁止用户缩放</a>
         </li>
       
@@ -3540,10 +3572,16 @@ make clean</p>
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
 </span></code></pre></td>
 <td class="lntd">
 <pre tabindex="0" class="chroma"><code class="language-sh" data-lang="sh"><span class="line"><span class="cl"><span class="nb">export</span> <span class="nv">RUSTFLAGS</span><span class="o">=</span><span class="s2">&#34;-C target-cpu=native -g&#34;</span>
 </span></span><span class="line"><span class="cl"><span class="nb">export</span> <span class="nv">FFI_BUILD_FROM_SOURCE</span><span class="o">=</span><span class="m">1</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1">## 启用 cuda 支持</span>
+</span></span><span class="line"><span class="cl"><span class="nb">export</span> <span class="nv">FFI_USE_CUDA</span><span class="o">=</span><span class="m">1</span>
 </span></span></code></pre></td></tr></table>
 </div>
 </div><ul>

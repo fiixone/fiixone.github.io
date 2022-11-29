@@ -73,6 +73,16 @@
   </url>
   
   <url>
+    <loc>https://fiix.one/docs/web/windows%E4%B8%8B%E7%BC%96%E8%AF%91nginx%E6%94%AF%E6%8C%81ngx_cache_purge/</loc>
+    <lastmod>2022-11-20T10:36:36+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fiix.one/docs/web/nginx%E9%85%8D%E7%BD%AEcgi_%E8%B0%83%E7%94%A8shell/</loc>
+    <lastmod>2022-11-12T09:36:36+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fiix.one/docs/os/windows/nssm%E4%B8%8B%E8%BD%BD%E9%85%8D%E7%BD%AE/</loc>
     <lastmod>2022-07-13T20:07:49+08:00</lastmod>
   </url>
